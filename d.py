@@ -53,13 +53,13 @@ from telegram.ext import (
 )
 
 # ─────────────────────── TELEGRAM CONFIG ───────────────────────
-TG_TOKEN = ""
-ALLOWED_CHAT = 
+TG_TOKEN = "TG_TOKEN"
+ALLOWED_CHAT = "ALLOWED_CHAT"
 # ───────────────────────────────────────────────────────────────
 
 # ─────────────────────── HARD-CODED USER ───────────────────────
-FIRST_NAME = ""
-EMAIL      = ""
+FIRST_NAME = "SUBHASH"
+EMAIL      = "EMAIL"
 # ───────────────────────────────────────────────────────────────
 
 PKG        = "com.magicpin.local"
